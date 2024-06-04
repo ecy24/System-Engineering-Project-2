@@ -17,6 +17,8 @@ Need 1: Improve the branding of the cafe by creating a brand that is unique to t
 
 Need 2: Cafe are willing and open to try out new/emerging technologies.
 
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 After finding out the high level needs of the cafe owners, we looked up and found that there is a group of customers that is untapped by most 
 F&B businesses. The demographics we are targetting would be people with disabilities, specifically peoplle with Parkinson's disease. From our
 study, we found out that parkinson's disease patient would generally suffer from tremors which affects them form eating like a normal person
@@ -29,6 +31,8 @@ for them to eat out.
 Need 1: Machine capable to stabilize the x-axis and y-axis shaking of the tremors.
 
 Need 2: Machine capable of stabilizing the z-axis shaking of the tremors.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 After looking within the domain, we also found an oppotunity for the cafe to build their campaign around and develop itself as an inclusive cafe 
 where its a safe space for those with Parkinson's disease to be capable of enjoying eating out. We also think that our product which could include 
